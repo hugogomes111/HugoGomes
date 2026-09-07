@@ -48,12 +48,7 @@ I enjoy projects that combine solid theory with something tangible to run, test,
 
 ###  GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true" alt="GitHub Streak" height="165">
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hugogomes111&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugogomes111&hide_border=true" alt="GitHub Streak" height="165"> </div>
 
 ###  Currently Exploring
 
