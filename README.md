@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hugo 👋
+# Hi, I'm Hugo 
 
 **Computer Science Graduate · University of Minho**
 
@@ -20,7 +20,7 @@ I'm a Computer Science graduate passionate about how software is built at every 
 
 I enjoy projects that combine solid theory with something tangible to run, test, and break.
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -36,17 +36,17 @@ I enjoy projects that combine solid theory with something tangible to run, test,
 
 </div>
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎮 [**Mini-Jogo Concorrente**](https://github.com/your-username/PC25-26_grupo17) | Real-time multiplayer arena game with a concurrent Erlang server | Erlang · Java · Processing |
-| ⚙️ [**Runner & Controller**](https://github.com/your-username/porject_SO_25-26) | A command scheduler built on raw Unix processes, pipes, and syscalls | C · POSIX |
-| 🧩 [**Pascal → VM Compiler**](https://github.com/your-username/project_plc) | A compiler for a Pascal-like language targeting a stack-based VM | Python · PLY |
-| 🏅 [**FDM Database**](https://github.com/your-username/data_base) | Relational database for managing athletes, teams, and competitions | MySQL · SQL |
-| 🎵 [**SpotifUM**](https://github.com/your-username/object-oriented_programming) | Spotify-inspired platform built around OOP design principles | Java · MVC |
+|  [**Concurrent Mini Game**](https://github.com/your-username/PC25-26_grupo17) | Real-time multiplayer arena game with a concurrent Erlang server | Erlang · Java · Processing |
+|  [**Runner & Controller**](https://github.com/your-username/porject_SO_25-26) | A command scheduler built on raw Unix processes, pipes, and syscalls | C · POSIX |
+|  [**Pascal → VM Compiler**](https://github.com/your-username/project_plc) | A compiler for a Pascal-like language targeting a stack-based VM | Python · PLY |
+|  [**FDM Database**](https://github.com/your-username/data_base) | Relational database for managing athletes, teams, and competitions | MySQL · SQL |
+|  [**SpotifUM**](https://github.com/your-username/object-oriented_programming) | Spotify-inspired platform built around OOP design principles | Java · MVC |
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -55,7 +55,7 @@ I enjoy projects that combine solid theory with something tangible to run, test,
 
 </div>
 
-### 🌱 Currently Exploring
+###  Currently Exploring
 
 - Front-end web development (CSS layout, JavaScript frameworks, GSAP animations)
 - Deep learning fundamentals (CNNs, RNNs, Transformers)
