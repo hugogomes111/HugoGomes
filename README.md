@@ -1,95 +1,69 @@
 <div align="center">
 
-# Hi there! 👋 I'm Hugo Gameiro Gomes
+# Hi, I'm Hugo 👋
 
-<img align="right" src="https://komarev.com/ghpvc/?username=hugogomes111&color=blueviolet&style=flat-square" alt="Profile Views" />
+**Computer Science Graduate · University of Minho**
 
-### 🚀 Computer Science Student · Software Development · Systems & Web
+Building systems across the stack — from concurrent servers and compilers to relational databases and object-oriented design.
 
-<p>
-  <a href="https://github.com/hugogomes111">
-    <img src="https://img.shields.io/badge/GitHub-hugogomes111-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-2F80ED?style=for-the-badge" alt="Focus">
-  <img src="https://img.shields.io/badge/Status-Student-555555?style=for-the-badge" alt="Student">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 💡 About me
+### About Me
 
-I'm a **Computer Science student (LCC)** interested in building software, understanding how systems work, and continuously improving my programming skills[cite: 2].
+I'm a Computer Science graduate passionate about how software is built at every layer — concurrent systems, language design, databases, and clean object-oriented architecture. Most of my work comes from my degree at the University of Minho, where I built everything from a multiplayer game server to a Pascal compiler, alongside personal projects exploring front-end web development.
 
-My current work and projects are mainly focused on **Python, C, JavaScript, HTML and CSS**, with a particular interest in **Programming Languages & Compilers, systems programming and web development**[cite: 2]. I use GitHub to document my academic projects, experiments, and progress[cite: 2].
+I enjoy projects that combine solid theory with something tangible to run, test, and break.
 
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,linux,vscode" alt="Tech Stack" />
-</p>
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | Python · C · JavaScript[cite: 2] |
-| **Web Development** | HTML · CSS · JavaScript[cite: 2] |
-| **Compilers & Systems** | Lexical analysis · Parsing · Virtual machines · Make[cite: 2] |
-| **Tools & OS** | Git · GitHub · VS Code · Linux[cite: 2] |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugogomes111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugogomes111&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugogomes111&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
-## 💼 Featured Projects
-
-### 🔬 Programming Languages & Compilers
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[project_plc](https://github.com/hugogomes111/project_plc)**[cite: 2] | Academic project covering lexical analysis, parsing, and virtual machine work. | `Python`[cite: 2] |
-| **[PLC2025](https://github.com/hugogomes111/PLC2025)**[cite: 2] | Coursework and practical assignments for the Compilers course. | `Python`[cite: 2] |
-
-### ⚙️ Systems & Web Development
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[TrabalhoSO](https://github.com/hugogomes111/TrabalhoSO)**[cite: 2] | Academic project focused on systems and operating-systems programming. | `C`[cite: 2] |
-| **[my_website](https://github.com/hugogomes111/my_website)**[cite: 2] | Personal website project exploring front-end web technologies. | `JS`, `HTML`, `CSS`[cite: 2] |
-| **[css-exercises](https://github.com/hugogomes111/css-exercises)**[cite: 2] | Collection of exercises strengthening HTML and CSS fundamentals. | `HTML`, `CSS`[cite: 2] |
-
----
-
-## 🎯 Currently Learning & Improving
-
-- **Software Development** — Writing cleaner, more maintainable code[cite: 2]
-- **C & Systems Programming** — Strengthening low-level programming fundamentals[cite: 2]
-- **Compilers** — Understanding deep concepts of how programming languages are processed[cite: 2]
-- **Algorithms & Problem Solving** — Developing stronger computational thinking[cite: 2]
-
----
-
-## ☕ Connect with Me
+### 🧠 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/hugogomes111" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<br><br>
+</div>
 
-*“Always learning. Always building.”*[cite: 2]
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎮 [**Mini-Jogo Concorrente**](https://github.com/your-username/PC25-26_grupo17) | Real-time multiplayer arena game with a concurrent Erlang server | Erlang · Java · Processing |
+| ⚙️ [**Runner & Controller**](https://github.com/your-username/porject_SO_25-26) | A command scheduler built on raw Unix processes, pipes, and syscalls | C · POSIX |
+| 🧩 [**Pascal → VM Compiler**](https://github.com/your-username/project_plc) | A compiler for a Pascal-like language targeting a stack-based VM | Python · PLY |
+| 🏅 [**FDM Database**](https://github.com/your-username/data_base) | Relational database for managing athletes, teams, and competitions | MySQL · SQL |
+| 🎵 [**SpotifUM**](https://github.com/your-username/object-oriented_programming) | Spotify-inspired platform built around OOP design principles | Java · MVC |
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true" alt="GitHub Streak" height="165">
+
+</div>
+
+### 🌱 Currently Exploring
+
+- Front-end web development (CSS layout, JavaScript frameworks, GSAP animations)
+- Deep learning fundamentals (CNNs, RNNs, Transformers)
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore my repositories above.*
 
 </div>
